@@ -12,28 +12,33 @@ background-color: red;
 			text-align: center;
 			line-height: 20px;
 			width:100%;
-			padding-left: 25%;
+			/*padding-left: 25%;*/
 
 		}
+
+.blogsLink{
+	padding-bottom: 0.5%;
+}
 .QuoraLink{
 min-height:30px;
-max-width: 50%;
+min-width: 25%;
 background-color: lightgreen;
 text-align: center;
+
 
 }
 .StackOverFlowLink{
 min-height:30px;
-max-width: 50%;
+min-width: 25%;
 background-color: green;
 text-align: center;
+
 }
 .MorisikaLink{
 min-height:30px;
-max-width: 50%;
+min-width: 25%;
 background-color: lightgreen;
 text-align: center;
-
 }
 .pcWallPaper {
 	display: none;
