@@ -1,12 +1,14 @@
 var attribute = ["an Indian",
                  "a EE undergrad",
                  "an IITian",
-                 "a programmer",
+                 "a programmer...",
                  
-                 "a coffeeholic",
-                 "scrolling twitter",
-                 "rewatching GOT",
-                 "learning new things..",
+                 "a coffeeholic...",
+                 "an AI Enthusiast...",
+                 "rewatching Ramayana...",
+                 "learning new things...",
+                 "Experimenting new things...",
+                 "Building new things..."
                  ];
 
 var len = attribute.length;
@@ -53,10 +55,10 @@ $(document).ready(function(){
 
   if($(window).width() >= 1024){
     $(".main-btn").toggleClass("pulse");
-    $('.social-icons').append('<li><a class="btn-floating" style="background-color: #0077B5;" href="https://www.linkedin.com/in/ujjal-das-525987127/" target="_blank"><i class="fa fa-linkedin"></i></a></li>');
-    $('.social-icons').append('<li><a class="btn-floating" style="background-color: #02b875;" href="https://medium.com/@ujjaldas132" target="_blank"><i class="fa fa-medium"></i></a></li>');
-    $('.social-icons').append('<li><a class="btn-floating pink darken-2" href="https://www.instagram.com/ujjaldas132/" target="_blank"><i class="fa fa-instagram"></i></a></li>');
-    $('.social-icons').append('<li><a class="btn-floating indigo darken-4" href="http://steamcommunity.com/id/" target="_blank"><i class="fa fa-steam"></i></a></li>');
+    // $('.social-icons').append('<li><a class="btn-floating" style="background-color: #0077B5;" href="https://www.linkedin.com/in/ujjal-das-525987127/" target="_blank"><i class="fa fa-linkedin"></i></a></li>');
+    
+    // $('.social-icons').append('<li><a class="btn-floating pink darken-2" href="https://www.instagram.com/ujjaldas132/" target="_blank"><i class="fa fa-instagram"></i></a></li>');
+   
     $(".main-btn").click();
   };
   console.log("Hey Buddy!!, Glad you reached here. If you have some projects for me or wanna collaborate or just wanna say a hello, drop me a mail at ujjaldas132@gmail.com")
