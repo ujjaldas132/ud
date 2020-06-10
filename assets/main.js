@@ -1,14 +1,11 @@
-var attribute = ["an Indian",
-                 "a EE undergrad",
-                 "an IITian",
-                 "a programmer...",
+var attribute = ["an Indian...",
+                 "a EE undergrad...!",
+                 "an IITian...!",
+                 "a developer...",
                  
                  "a coffeeholic...",
                  "an AI Enthusiast...",
-                 "rewatching Ramayana...",
-                 "learning new things...",
-                 "Experimenting new things...",
-                 "Building new things..."
+                 "rewatching Ramayana..."
                  ];
 
 var len = attribute.length;
